@@ -1,5 +1,5 @@
 ####################################
-#  update for 2023/01/26 00:22:20  #
+#  update for 2023/01/27 00:21:16  #
 ####################################
 name: 编译固件_1715173329-immortalwrt
 
@@ -50,6 +50,7 @@ on:
           - "master-ipq807x-stock"
           - "master-rockchip-519"
           - "master-rockchip-6.1"
+          - "master-rockchip-atf"
           - "master-rockchip-r1plts"
           - "master-rockchip-rk3588"
           - "master-rockchip-uboot"
