@@ -1,5 +1,5 @@
 ####################################
-#  update for 2023/06/02 00:19:59  #
+#  update for 2023/06/03 00:18:46  #
 ####################################
 name: 编译固件_1715173329-immortalwrt
 
@@ -57,6 +57,7 @@ on:
           - "master-mt7981-t7"
           - "master-rockchip-519"
           - "master-rockchip-6.1"
+          - "master-rockchip-boot"
           - "master-rockchip-devname-of"
           - "master-rockchip-dts"
           - "master-rockchip-mdio"
