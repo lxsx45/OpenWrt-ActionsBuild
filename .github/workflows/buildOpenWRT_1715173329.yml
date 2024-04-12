@@ -1,5 +1,5 @@
 ####################################
-#  update for 2024/04/12 00:16:48  #
+#  update for 2024/04/13 00:18:12  #
 ####################################
 name: 编译固件_1715173329-immortalwrt
 
@@ -62,6 +62,7 @@ on:
           - "master-rockchip-rk3588-display"
           - "master-rockchip-rk3588-rkuboot"
           - "master-rockchip-uboot"
+          - "master-rockchup-cpuinfo"
       feeds_file:
         type: choice
         description: '替换软件源配置(feeds.conf.default)'
